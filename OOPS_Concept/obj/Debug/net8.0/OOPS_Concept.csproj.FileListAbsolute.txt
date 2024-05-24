@@ -1,0 +1,14 @@
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\bin\Debug\net8.0\OOPS_Concept.exe
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\bin\Debug\net8.0\OOPS_Concept.deps.json
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\bin\Debug\net8.0\OOPS_Concept.runtimeconfig.json
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\bin\Debug\net8.0\OOPS_Concept.dll
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\bin\Debug\net8.0\OOPS_Concept.pdb
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\obj\Debug\net8.0\OOPS_Concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\obj\Debug\net8.0\OOPS_Concept.AssemblyInfoInputs.cache
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\obj\Debug\net8.0\OOPS_Concept.AssemblyInfo.cs
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\obj\Debug\net8.0\OOPS_Concept.csproj.CoreCompileInputs.cache
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\obj\Debug\net8.0\OOPS_Concept.dll
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\obj\Debug\net8.0\refint\OOPS_Concept.dll
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\obj\Debug\net8.0\OOPS_Concept.pdb
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\obj\Debug\net8.0\OOPS_Concept.genruntimeconfig.cache
+C:\Users\pagad\source\repos\OOPS_Concept\OOPS_Concept\obj\Debug\net8.0\ref\OOPS_Concept.dll
